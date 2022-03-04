@@ -1,0 +1,24 @@
+section{
+    display: flex;
+}
+.bluecolor{
+    color: blueviolet;
+}
+h1{
+    font-size: 50px;
+}
+.hlf-wdth{
+    width: 50%;
+}
+.hlf-wdth p{
+    font-size: 20px;
+    text-align: left;
+}
+.widthfix{
+    width: 60%;
+}
+.hire-button{
+    text-decoration: none;
+    font-size: 20px;
+    background-image:linear-gradient(aqua, blue)
+}
